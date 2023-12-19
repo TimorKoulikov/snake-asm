@@ -1,7 +1,7 @@
 # snake-asm
 a simple boot sector snake game in assembly 8086<br>
-thought it would be a fun project<br>
-it was not
+
+
 
 ## Prerequisites
 - nasm
